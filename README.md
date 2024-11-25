@@ -1,6 +1,6 @@
 # stk500v2 Bootloader for VG3D Printer
 
-This is a fork of the [Prusa version](https://github.com/prusa3d/stk500v2-prusa) of the stk500v2 bootloader for the ATMEGA2560 chip on the Einsy Rambo board. It has been modified to be used on the VG3D printer.
+This is a fork of the [Prusa version](https://github.com/prusa3d/stk500v2-prusa) of the stk500v2 bootloader for the ATMEGA2560 chip on the Einsy Rambo board. It has been modified to be used on the [VG3D](https://www.vegetronix.com/Products/3D-Printers) printer.
 
 In order recompile this code into a .hex file after making changes, you will need to use the `make` command in Linux or in the Windows Subsystem for Linux.
 
