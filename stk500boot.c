@@ -899,19 +899,14 @@ int main(void)
 		boot_app_magic = 0x00000000;
 		while(1);
 	}*/
-/*	lcd_puts("B");
-    lcd_goto(21);
-    lcd_puts("Original Prusa i3");
-    lcd_goto(47);
-    lcd_puts("Prusa Research");*/
-    lcd_goto(65);
-    lcd_puts("Original Prusa i3");
-    lcd_goto(23);
-    lcd_puts("Prusa Research");
+    //lcd_goto(72);
+    //lcd_puts("VG3D");
+    lcd_goto(69);
+    lcd_puts("Vegetronix");
 //    lcd_goto(90);
 //	lcd_puts("boot...    ...");
-    lcd_goto(101);
-	lcd_puts("...");
+    //lcd_goto(89);
+	//lcd_puts("Loading...");
 
 #endif //LCD_HD44780
 
